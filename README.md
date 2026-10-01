@@ -23,23 +23,6 @@
 ---
 
 ## 👩‍💻 About Me
-
-```python
-class Sahana:
-    def __init__(self):
-        self.name      = "Sahana Marigoudra"
-        self.education = "MCA (Master of Computer Applications)"
-        self.location  = "Hubballi, Karnataka, India 📍"
-        self.skills    = ["Python", "Java", "JavaScript", "HTML", "CSS"]
-        self.interests = ["Web Development", "Problem Solving", "Open Source"]
-        self.currently = "Learning, building projects and growing as a developer 🌱"
-
-    def say_hi(self):
-        print("Thanks for visiting my profile! Let's connect and build something great.")
-
-Sahana().say_hi()
-```
-
 - 🎓 Pursuing **MCA** and learning something new every day
 - 🌐 Passionate about **web development** and clean, user-friendly interfaces
 - 🐍 Skilled in **Python**, with growing experience in **Java** and **JavaScript**
@@ -130,8 +113,8 @@ Sahana().say_hi()
 <div align="center">
 
 <!-- Replace the links below with your own -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YOUR-LINKEDIN-ID](https://www.linkedin.com/in/sahana-marigoudra-359648354?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-sahanacm.mca@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SahanaMarigoudra)
 
 </div>
