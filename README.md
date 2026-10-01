@@ -14,7 +14,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SahanaMarigoudra&label=Profile%20Views&color=6a11cb&style=for-the-badge)
+
 ![Followers](https://img.shields.io/github/followers/SahanaMarigoudra?label=Followers&style=for-the-badge&logo=github&color=2c5364)
 ![Repos](https://img.shields.io/badge/Public%20Repos-3-8B5CF6?style=for-the-badge&logo=bookstack&logoColor=white)
 
